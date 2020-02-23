@@ -62,3 +62,10 @@
     background-color: blue;
 }
 
+/* card section of juta */
+
+
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
