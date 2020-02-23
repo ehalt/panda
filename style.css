@@ -24,8 +24,9 @@
 .buy-now-button {
     background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
     color: #fff;
+    border:none;
     border-radius: 8px;
-    padding: 9 px 25px;
+    padding: 10px 25px;
     cursor: pointer;
 }
 
